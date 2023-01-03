@@ -1,0 +1,26 @@
+{
+    "1":{
+        "set-info": {
+            "object-name":"Example Object",
+            "thumbnail": "",
+            "object-type": "course",
+            "description": "This is the objects description."
+        },
+        "set-dates": {
+            "available-from":"01.02.2023",
+            "available-until": "31.12.2023",
+            "event-date": "24.05.2023"
+        },
+        "generated-dates": {
+            "created":"01.01.2023"
+        },
+        "personal-data": {
+            "learning-progress":"not started",
+            "my-rating":""
+        },
+        "community-data": {
+            "rating": 4.5,
+            "total-comments": 2
+        }
+    }
+}
